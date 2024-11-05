@@ -1,7 +1,5 @@
 # LeetCodeProWithPython
-Welcome to my **LeetCode Solutions** repository! This collection contains my solutions to a variety of LeetCode problems, all implemented in Python. Dive in to explore different problem-solving approaches and optimize your coding skills. Happy coding! 🎉
-
-This repository includes efficient solutions to LeetCode problems focused on mastering algorithms and data structures through optimized, clean, and scalable code. This repository is designed to build strong problem-solving foundations, offering diverse approaches to tackle coding challenges.
+Welcome to my **LeetCode Solutions** repository! This collection contains my solutions to a variety of LeetCode problems, all implemented in Python. Dive in to explore different problem-solving approaches and optimize your coding skills. This repository includes efficient solutions to LeetCode problems focused on mastering algorithms and data structures through optimized, clean, and scalable code. This repository is designed to build strong problem-solving foundations, offering diverse approaches to tackle coding challenges. Happy coding! 🎉
 
 ## 📁 Repository Organization
 
