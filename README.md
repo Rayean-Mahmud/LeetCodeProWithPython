@@ -5,6 +5,9 @@ Welcome to my **LeetCode Solutions** repository! This collection contains my sol
 
 This repository is meticulously organized into **topic-specific folders**, making it easy for you to navigate through various categories of LeetCode problems. Each folder contains solution files in **`.py` format**, allowing you to explore and learn from my implementations directly.
 
+## 📚 LeetCode Solutions Documentation
+
+This folder contains my LeetCode problems and solutions, organized in Jupyter Notebook (.ipynb) format. Each notebook includes a detailed explanation of the problems, providing a clear and structured way to understand problem-solving techniques and solutions.
 
 
 ## 💻 Tech Stack
